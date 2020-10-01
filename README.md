@@ -17,4 +17,5 @@ while 1:
             break
         a=a+1
 print("Is this helpful?")
+print("Thank You")
 input()
