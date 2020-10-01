@@ -1,9 +1,3 @@
-# i=0
-# while 1:
-#     while i<10:
-#         print((10-i)*"*")
-#         break
-#     i=i+1
 print("enter the number\n")
 i=int(input())
 print("enter the boolean number '0' or '1'\n")
@@ -21,5 +15,6 @@ while 1:
             print((a+1)*"*")
             break
         a=a+1
+print("Thanks\n")
 print("Is this helpful?")
 input()
